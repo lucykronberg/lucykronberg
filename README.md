@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Lucy and this is my showcase presentation on my Data Science Final Project. In this project I analyzed and compared streaming services and their ranks in popularity. My personal motto is, "You can't have a rainbow without a little rain." -- Dolly Parton.
 
 <!--
 **lucykronberg/lucykronberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
